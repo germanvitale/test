@@ -1,0 +1,13 @@
+.toolbar-background-ios,
+.toolbar-background-md,
+.toolbar-background-wp {
+    background: #5069A1;
+}
+
+ion-app.app-root core-course-format .core-format-progress-list .core-course-thumb {
+    display: block;
+}
+
+ion-app.app-root core-format-text {
+    color: red;
+}
